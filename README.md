@@ -1,1 +1,2 @@
-# WebVMD - Cornell Animal Health Hackathon
+# WebVMD
+Cornell Animal Health Hackathon
